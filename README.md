@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skylar-Harvey
-- 👀 I’m interested in - Learning and thinking about ways to use data to answer questions
+- 👀 I’m interested in - Learning and thinking about ways to use code and data to answer questions and build projects!
 - 🌱 I’m currently learning - Data analysis, Python, SQL, Data visualization, and how to build data pipelines
 - 💞️ I’m looking to collaborate on - Anything that catches my attention!
 - 📫 How to reach me - E-mail me at skylarharvey42@gmail.com
